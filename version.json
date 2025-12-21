@@ -1,7 +1,7 @@
 {
   "version": 3.2,
   "changelog": [
-    "Fixed issues with server validation",
+    "Removed server validation to keep things simple and fix some issues",
     "Added changelog on any new available update notification",
     "Added option to reset to default settings"
   ]
