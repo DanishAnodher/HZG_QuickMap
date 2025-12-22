@@ -1,8 +1,9 @@
 {
-  "version": 3.2,
+  "version": 3.3,
   "changelog": [
-    "Removed server validation to keep things simple and fix some issues",
-    "Added changelog on any new available update notification",
-    "Added option to reset to default settings"
+    "Implemented semantic versioning",
+    "Fixed config file creation issues",
+    "Fixed settings reset functionality", 
+    "Improved update check visualization on login"
   ]
 }
