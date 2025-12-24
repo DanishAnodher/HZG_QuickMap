@@ -1,9 +1,9 @@
 {
-  "version": 3.3,
+  "version": "3.4.0",
   "changelog": [
-    "Implemented semantic versioning",
-    "Fixed config file creation issues",
-    "Fixed settings reset functionality", 
-    "Improved update check visualization on login"
+    "Performance improvements and bug fixes",
+    "Added support for Rendering Target Waypoints",
+    "Removed flash interval setting as it was unnecessary",
+    "Switched to auto-update for better user experience"
   ]
 }
