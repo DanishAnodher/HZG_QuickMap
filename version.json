@@ -1,9 +1,13 @@
 {
-  "version": "3.4.0",
+  "version": "3.5.0",
   "changelog": [
-    "Performance improvements and bug fixes",
-    "Added support for Rendering Target Waypoints",
-    "Removed flash interval setting as it was unnecessary",
-    "Switched to auto-update for better user experience"
+    "Added customizable hotkey for map toggle (configurable in settings)",
+    "Integrated FontAwesome icons throughout the UI for a better look",
+    "Added in-game notification system for better user feedback",
+    "Complete UI redesign with modern dark theme and improved styling",
+    "Enhanced settings menu with icon-labeled sections",
+    "Improved config save functionality with better error handling",
+    "Changed default map opacity from 200 to 150 for better visibility",
+    "Updated default checkpoint color for better contrast"
   ]
 }
